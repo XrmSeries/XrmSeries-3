@@ -32,6 +32,8 @@ XrmSeries 3 是一款适用于 ILLUSION 旗下 HoneySlect2 DX 的综合管理工
 
 ## ❤️ Special Thanks
 特别感谢全体赞助用户对 XrmSeries 的支持
+
+致谢墙：https://thanks.xrmsoft.com/
 <div align="center">
 <img src="src/img/supporters.png" width="800">
 </div>
