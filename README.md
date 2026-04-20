@@ -29,3 +29,9 @@ XrmSeries 3 是一款适用于 ILLUSION 旗下 HoneySlect2 DX 的综合管理工
 4.可拓展的插件管理：基于开放式架构，支持配置修改与拦截规则。功能随着需求无限延展，为游戏提供自由而可持续的扩展能力。
 
 5.更优雅的主题设计：纯白简洁而不失优雅，「功能与美学结合」「不仅是工具，更是体验」
+
+## ❤️ Special Thanks
+特别感谢全体赞助用户对 XrmSeries 的支持
+<div align="center">
+<img src="src/img/supporters.png" width="800">
+</div>
